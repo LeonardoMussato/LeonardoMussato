@@ -6,4 +6,4 @@ In addition to my software development experience, I have spent a year as an exc
 
 Let's work together to bring your ideas to life 🚀💡. Whether you need help launching a startup, scaling your existing business, or developing a new software solution, I have the skills, experience, and expertise to help you achieve your goals 🎯.
 
-<a href="https://app.daily.dev/LeonardoMussato"><img src="https://github.com/LeonardoMussato/LeonardoMussato/blob/main/devcard.svg" width="400" alt="Leonardo Mussato's Dev Card"/></a>
+<a href="https://app.daily.dev/LeonardoMussato"><img src="https://github.com/LeonardoMussato/LeonardoMussato/blob/main/devcard.png" width="400" alt="Leonardo Mussato's Dev Card"/></a>
